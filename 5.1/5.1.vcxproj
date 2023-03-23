@@ -134,12 +134,6 @@
     <ClCompile Include="ReadBitMap.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="lena_gray.bmp" />
-    <Image Include="SAMPLE_01.bmp" />
-    <Image Include="SAMPLE_02.bmp" />
-    <Image Include="SAMPLE_03.bmp" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="BMP.h" />
     <ClInclude Include="ReadBitMap.h" />
   </ItemGroup>

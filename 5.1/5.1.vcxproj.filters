@@ -26,20 +26,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="SAMPLE_01.bmp">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="SAMPLE_02.bmp">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="lena_gray.bmp">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="SAMPLE_03.bmp">
-      <Filter>Resource Files</Filter>
-    </Image>
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="BMP.h">
       <Filter>Header Files</Filter>
     </ClInclude>
